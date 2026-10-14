@@ -38,7 +38,7 @@ The majority of complaints are concentrated in debt collection and credit report
 
 ### Trends Over Time
 Complaints show a long-term decline but periodic spikes, indicating unresolved systemic issues.  
-![Complaints Trend](images/Complaints trends-over-time.png)
+![Complaints Trend](images/Complaints_trends_over_time.png)
 
 ### Word Frequency
 Frequent terms highlight debt, credit, and collection practices.  
