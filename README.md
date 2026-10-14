@@ -33,28 +33,40 @@ Although the dataset covers multiple institutions, the analysis is adapted to Ci
 ## Results
 
 ### Complaint Distribution by Product
-The majority of complaints are concentrated in debt collection and credit reporting.  
-![Complaints by Product](images/complaints_by_product.png)
+
+The majority of complaints are concentrated in debt collection and credit reporting.
+
+![Complaints by Product](Images/complaints_by_product.png)
 
 ### Trends Over Time
-Complaints show a long-term decline but periodic spikes, indicating unresolved systemic issues.  
-![Complaints Trend](images/Complaints_trends_over_time.png)
+
+Complaints show a long-term decline but periodic spikes, indicating unresolved systemic issues.
+
+![Complaints Trend](Images/Complaints_trends_over_time.png)
 
 ### Word Frequency
-Frequent terms highlight debt, credit, and collection practices.  
-![Top 15 Words](images/Top 15 Words.png)
+
+Frequent terms highlight debt, credit, and collection practices.
+
+![Top 15 Words](Images/Top%2015%20Words.png)
 
 ### Word Cloud
-Visual representation of the most common complaint terms.  
-![Word Cloud](images/most_frequent_words.png)
+
+Visual representation of the most common complaint terms.
+
+![Word Cloud](Images/most_frequent_words.png)
 
 ### Sentiment Analysis
-TextBlob results show suspiciously high positive sentiment, suggesting tool bias.  
-![Sentiment Distribution](images/sentiment_proportion_by_product.png)
+
+TextBlob results show suspiciously high positive sentiment, suggesting tool bias.
+
+![Sentiment Distribution](Images/sentiment_proportion_by_product.png)
 
 ### Top 10 Complaint Issues
-Debt collection dominates, followed by credit reporting and account servicing.  
-![Top 10 Complaint Issues](images/top_10_issues.png)
+
+Debt collection dominates, followed by credit reporting and account servicing.
+
+![Top 10 Complaint Issues](Images/top_10_issues.png)
 
 ## Key Findings
 - **Debt collection** has the highest negative sentiment (~31%).  
